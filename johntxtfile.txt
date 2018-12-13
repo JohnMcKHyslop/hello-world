@@ -1,2 +1,3 @@
 This is a new file ready to be merged from this branch [john-branch] to Master
 This is another line added to the file in the john-test branch, to practice merging into Master
+And another line in john-branch
